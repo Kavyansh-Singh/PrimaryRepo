@@ -1,2 +1,2 @@
 # PrimaryRepo
-First repositary
+First repository
